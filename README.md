@@ -1,6 +1,6 @@
 # npmtest-umd
 
-#### test coverage for  [umd (v3.0.1)](https://github.com/ForbesLindesay/umd)  [![npm package](https://img.shields.io/npm/v/npmtest-umd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-umd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-umd.svg)](https://travis-ci.org/npmtest/node-npmtest-umd)
+#### basic test coverage for  [umd (v3.0.1)](https://github.com/ForbesLindesay/umd)  [![npm package](https://img.shields.io/npm/v/npmtest-umd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-umd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-umd.svg)](https://travis-ci.org/npmtest/node-npmtest-umd)
 
 #### Universal Module Definition for use in automated build systems
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-umd/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-umd/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-umd/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-umd/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-umd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-umd/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-umd/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-umd/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-umd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-umd/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-umd/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-umd/build/coverage.html/index.html)
 
